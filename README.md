@@ -106,9 +106,3 @@ Terminer l'exécution proprement.<br>
 
 15-Quitter le programme.<br></P>
 
-Présenté Par :<br>
-Harridi Mohamed Alaaeddine<br>
-Bouzid Abdellah<br>
-Zouaoui Abdelmalek<br>
-Nacer Bey Abderrahmane Zakaria<br>
-Chelali Islem Mohamed Yahia
